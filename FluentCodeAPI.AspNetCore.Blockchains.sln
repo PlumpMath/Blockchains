@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentCodeAPI.AspNetCore.Blockchains", "src\FluentCodeAPI.AspNetCore.Blockchains\FluentCodeAPI.AspNetCore.Blockchains.csproj", "{5A926644-398C-48D6-92C7-51F1EB9B8CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentCodeAPI.AspNetCore.Host", "src\FluentCodeAPI.AspNetCore.Host\FluentCodeAPI.AspNetCore.Host.csproj", "{E8710041-6A34-405F-8493-5945226F1BDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluentCodeAPI.AspNetCore.Tests", "test\FluentCodeAPI.AspNetCore.Tests\FluentCodeAPI.AspNetCore.Tests.csproj", "{1E29BAF9-8E44-4FEA-ADE0-3BF98EE189C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A926644-398C-48D6-92C7-51F1EB9B8CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A926644-398C-48D6-92C7-51F1EB9B8CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A926644-398C-48D6-92C7-51F1EB9B8CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A926644-398C-48D6-92C7-51F1EB9B8CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8710041-6A34-405F-8493-5945226F1BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8710041-6A34-405F-8493-5945226F1BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8710041-6A34-405F-8493-5945226F1BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8710041-6A34-405F-8493-5945226F1BDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E29BAF9-8E44-4FEA-ADE0-3BF98EE189C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E29BAF9-8E44-4FEA-ADE0-3BF98EE189C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E29BAF9-8E44-4FEA-ADE0-3BF98EE189C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E29BAF9-8E44-4FEA-ADE0-3BF98EE189C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C785DB8-658A-4354-8573-4E17361E3186}
+	EndGlobalSection
+EndGlobal
