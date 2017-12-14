@@ -1,2 +1,2 @@
 # Blockchains
-Simple blockchain experiment based on Asp.NET Core
+Simple blockchain experiment based on ASP.NET Core
